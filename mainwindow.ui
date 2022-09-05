@@ -156,7 +156,7 @@ QPushButton:pressed{
        </font>
       </property>
       <property name="text">
-       <string>Матрица</string>
+       <string>Система уравнений</string>
       </property>
       <property name="alignment">
        <set>Qt::AlignCenter</set>
